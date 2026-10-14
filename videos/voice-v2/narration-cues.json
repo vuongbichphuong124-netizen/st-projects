@@ -1,0 +1,127 @@
+{
+  "voice": "vi-VN-NamMinhNeural",
+  "direction": "Nam, rõ ràng, chắc chắn; câu ngắn, có khoảng nghỉ; tốc độ tự nhiên",
+  "duration": 95.8,
+  "cues": [
+    {
+      "id": "01",
+      "start": 0.35,
+      "end": 3.7,
+      "scene": "Khách hàng rời đi",
+      "text": "Bao nhiêu khách hàng đã rời đi?",
+      "tts_text": "Bao nhiêu khách hàng đã rời đi?"
+    },
+    {
+      "id": "02",
+      "start": 4.6,
+      "end": 10.7,
+      "scene": "Logo và kỷ nguyên mới",
+      "text": "Worldfone4X phiên bản bốn. Kỷ nguyên mới của tổng đài đa kênh.",
+      "tts_text": "Worldfone bốn ích phiên bản bốn. Kỷ nguyên mới của tổng đài đa kênh."
+    },
+    {
+      "id": "03",
+      "start": 11.4,
+      "end": 17.7,
+      "scene": "Từ chi phí thành doanh thu",
+      "text": "Biến tổng đài từ trung tâm chi phí thành cỗ máy doanh thu.",
+      "tts_text": "Biến tổng đài từ trung tâm chi phí thành cỗ máy doanh thu."
+    },
+    {
+      "id": "04",
+      "start": 18.4,
+      "end": 23.7,
+      "scene": "Chiến dịch đa kênh",
+      "text": "Một chiến dịch. Chủ động tiếp cận khách hàng trên mọi kênh.",
+      "tts_text": "Một chiến dịch. Chủ động tiếp cận khách hàng trên mọi kênh."
+    },
+    {
+      "id": "05",
+      "start": 24.5,
+      "end": 31.6,
+      "scene": "Mọi kênh trên một màn hình",
+      "text": "Cuộc gọi, Zalo, Facebook, email. Mọi tương tác trên một màn hình. Không bỏ lỡ kết nối.",
+      "tts_text": "Cuộc gọi, Zalo, Facebook, email. Mọi tương tác trên một màn hình. Không bỏ lỡ kết nối."
+    },
+    {
+      "id": "06",
+      "start": 32.5,
+      "end": 39.6,
+      "scene": "Chatbot và Callbot AI",
+      "text": "Chatbot và Callbot AI chăm sóc khách hàng hai mươi bốn trên bảy. Đội ngũ tập trung tạo giá trị.",
+      "tts_text": "Chatbot và Callbot ây ai chăm sóc khách hàng hai mươi bốn trên bảy. Đội ngũ tập trung tạo giá trị."
+    },
+    {
+      "id": "07",
+      "start": 40.5,
+      "end": 47.6,
+      "scene": "Phân bổ tự động",
+      "text": "Tự động phân bổ khách hàng đến đúng nhân viên, trong vài giây. Phản hồi nhanh. Nắm bắt cơ hội.",
+      "tts_text": "Tự động phân bổ khách hàng đến đúng nhân viên, trong vài giây. Phản hồi nhanh. Nắm bắt cơ hội."
+    },
+    {
+      "id": "08",
+      "start": 48.5,
+      "end": 55.6,
+      "scene": "Tùy chỉnh không cần code",
+      "text": "Tự thêm trường dữ liệu theo nhu cầu. Kéo, thả, hoàn tất. Linh hoạt theo quy trình, không cần viết code.",
+      "tts_text": "Tự thêm trường dữ liệu theo nhu cầu. Kéo, thả, hoàn tất. Linh hoạt theo quy trình, không cần viết code."
+    },
+    {
+      "id": "09",
+      "start": 56.2,
+      "end": 58.8,
+      "scene": "Tài sản dữ liệu",
+      "text": "Dữ liệu khách hàng. Tài sản lớn nhất.",
+      "tts_text": "Dữ liệu khách hàng. Tài sản lớn nhất."
+    },
+    {
+      "id": "10",
+      "start": 59.4,
+      "end": 65.7,
+      "scene": "Phân quyền trường dữ liệu",
+      "text": "Phân quyền đến từng trường dữ liệu. Đúng người, đúng quyền. Chủ động bảo vệ thông tin trong từng thao tác.",
+      "tts_text": "Phân quyền đến từng trường dữ liệu. Đúng người, đúng quyền. Chủ động bảo vệ thông tin trong từng thao tác."
+    },
+    {
+      "id": "11",
+      "start": 66.5,
+      "end": 73.6,
+      "scene": "Kết nối mở",
+      "text": "Kết nối Woni AI và các hệ thống doanh nghiệp. Từ phần mềm quản trị đến thương mại điện tử, vận hành liền mạch.",
+      "tts_text": "Kết nối Woni ây ai và các hệ thống doanh nghiệp. Từ phần mềm quản trị đến thương mại điện tử, vận hành liền mạch."
+    },
+    {
+      "id": "12",
+      "start": 74.5,
+      "end": 81.6,
+      "scene": "Tổng kết lợi ích",
+      "text": "Hai mươi bốn trên bảy. Mọi kênh, một màn hình. Đúng người, trong vài giây. Mỗi điểm chạm, thành doanh thu.",
+      "tts_text": "Hai mươi bốn trên bảy. Mọi kênh, một màn hình. Đúng người, trong vài giây. Mỗi điểm chạm, thành doanh thu."
+    },
+    {
+      "id": "13",
+      "start": 83.2,
+      "end": 86.8,
+      "scene": "Logo kết",
+      "text": "Worldfone4X. Phiên bản bốn. Tích hợp AI.",
+      "tts_text": "Worldfone bốn ích. Phiên bản bốn. Tích hợp ây ai."
+    },
+    {
+      "id": "14",
+      "start": 87.1,
+      "end": 90.7,
+      "scene": "Thông điệp thương hiệu",
+      "text": "Kiến tạo hành trình. Bứt phá doanh thu.",
+      "tts_text": "Kiến tạo hành trình. Bứt phá doanh thu."
+    },
+    {
+      "id": "15",
+      "start": 91.1,
+      "end": 94.7,
+      "scene": "Sắp ra mắt và website",
+      "text": "Sắp ra mắt. Khám phá tại Worldfone chấm cloud.",
+      "tts_text": "Sắp ra mắt. Khám phá tại Worldfone chấm cloud."
+    }
+  ]
+}
